@@ -3,8 +3,8 @@
 Software Engineer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🎓 **Computer Science Engineering Student**  
-- 📍 Based in Karur, Tamil Nadu | 💼 Aspiring Graduate Engineer Trainee  
-- 🔭 Currently pursuing B.E. in CSE (2021–2025) at **VSB Engineering College**
+- 📍 Dindigul, Tamil Nadu   
+- 🔭 B.E. in CSE (2021–2025) at **VSB Engineering College**
 - ⚡ Fun fact: I know Japanese.
 - Social Presence
  <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/santhosh-kumarm15/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/vibe_with._.sk/)
